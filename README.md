@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Linkunjena/Linkun_Jena/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Linkun_jena</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="codding" height="300" width="450" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
